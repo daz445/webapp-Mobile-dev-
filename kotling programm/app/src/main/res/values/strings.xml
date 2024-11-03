@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Курсовая работа</string>
+    <string name="start_train_text">Начать тренировку 💪</string>
+    <string name="repeat">Повторить 🔁</string>
+    <string name="apiKey">79234845888</string>
+    <string name="host">127.0.0.1</string>
+</resources>

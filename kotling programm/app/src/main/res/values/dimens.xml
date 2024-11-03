@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_padding">12dp</dimen>
+    <dimen name="main_size">70dp</dimen>
+    <dimen name="_16dp">16dp</dimen>
+    <dimen name="pading_name_card">8dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+
+</resources>
